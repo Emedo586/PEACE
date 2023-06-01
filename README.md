@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi there👋, I'm Emedo Peace</h1>
 <h3 align="center">A passionate aspiring Software Engineer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
