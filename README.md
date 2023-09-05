@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
 
 
-  https://static.skillshare.com/uploads/video/thumbnails/f224bcec86f5c23f960cf749baed5404/original
 
 <img align="right" alt="Coding" width="400" src="https://static.skillshare.com/uploads/video/thumbnails/f224bcec86f5c23f960cf749baed5404/original.gif">
   
