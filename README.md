@@ -2,7 +2,11 @@
 <h1 align="center">Hi there👋, I'm Emedo Peace</h1>
 <h3 align="center">A passionate aspiring Software Engineer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
-  
+
+
+  https://static.skillshare.com/uploads/video/thumbnails/f224bcec86f5c23f960cf749baed5404/original
+
+<img align="right" alt="Coding" width="400" src="https://static.skillshare.com/uploads/video/thumbnails/f224bcec86f5c23f960cf749baed5404/original.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emedo586&label=Profile%20views&color=0e75b6&style=flat" alt="emedo586" /> </p>
 
